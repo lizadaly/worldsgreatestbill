@@ -1,0 +1,3 @@
+requests
+spacy
+git+https://github.com/aparrish/pytracery.git#egg=tracery
